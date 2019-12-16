@@ -1,0 +1,15 @@
+C:\Users\muski\Desktop\SoftwareQA\SeleniumSetupPrac\SeleniumSetupPrac\bin\Debug\netcoreapp3.1\SeleniumSetupPrac.exe
+C:\Users\muski\Desktop\SoftwareQA\SeleniumSetupPrac\SeleniumSetupPrac\obj\Debug\netcoreapp3.1\SeleniumSetupPrac.csprojAssemblyReference.cache
+C:\Users\muski\Desktop\SoftwareQA\SeleniumSetupPrac\SeleniumSetupPrac\obj\Debug\netcoreapp3.1\SeleniumSetupPrac.AssemblyInfoInputs.cache
+C:\Users\muski\Desktop\SoftwareQA\SeleniumSetupPrac\SeleniumSetupPrac\obj\Debug\netcoreapp3.1\SeleniumSetupPrac.AssemblyInfo.cs
+C:\Users\muski\Desktop\SoftwareQA\SeleniumSetupPrac\SeleniumSetupPrac\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\muski\Desktop\SoftwareQA\SeleniumSetupPrac\SeleniumSetupPrac\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\muski\Desktop\SoftwareQA\SeleniumSetupPrac\SeleniumSetupPrac\obj\Debug\netcoreapp3.1\SeleniumSetupPrac.csproj.CopyComplete
+C:\Users\muski\Desktop\SoftwareQA\SeleniumSetupPrac\SeleniumSetupPrac\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+C:\Users\muski\Desktop\SoftwareQA\SeleniumSetupPrac\SeleniumSetupPrac\bin\Debug\netcoreapp3.1\SeleniumSetupPrac.deps.json
+C:\Users\muski\Desktop\SoftwareQA\SeleniumSetupPrac\SeleniumSetupPrac\bin\Debug\netcoreapp3.1\SeleniumSetupPrac.runtimeconfig.json
+C:\Users\muski\Desktop\SoftwareQA\SeleniumSetupPrac\SeleniumSetupPrac\bin\Debug\netcoreapp3.1\SeleniumSetupPrac.runtimeconfig.dev.json
+C:\Users\muski\Desktop\SoftwareQA\SeleniumSetupPrac\SeleniumSetupPrac\bin\Debug\netcoreapp3.1\SeleniumSetupPrac.dll
+C:\Users\muski\Desktop\SoftwareQA\SeleniumSetupPrac\SeleniumSetupPrac\bin\Debug\netcoreapp3.1\SeleniumSetupPrac.pdb
+C:\Users\muski\Desktop\SoftwareQA\SeleniumSetupPrac\SeleniumSetupPrac\obj\Debug\netcoreapp3.1\SeleniumSetupPrac.dll
+C:\Users\muski\Desktop\SoftwareQA\SeleniumSetupPrac\SeleniumSetupPrac\obj\Debug\netcoreapp3.1\SeleniumSetupPrac.pdb
